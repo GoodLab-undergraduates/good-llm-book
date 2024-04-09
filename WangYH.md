@@ -27,3 +27,16 @@
 <https://www.datalearner.com/ai-models/llm-evaluation>
 
 <https://github.com/CLUEbenchmark/SuperCLUE>
+
+## 研报
+
+### 大模型行业(国产)
+
+<https://pdf.dfcfw.com/pdf/H3_AP202312211614643518_1.pdf?1703158210000.pdf> ：国产大模型
+<https://pdf.dfcfw.com/pdf/H3_AP202304201585601855_1.pdf>
+<https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAgss6pogYouLHDmAM.pdf>
+
+### 人工智能
+
+<https://pic.bankofchina.com/bocappd/rareport/202209/P020220919610076628756.pdf>
+<https://pdf.dfcfw.com/pdf/H3_AP202304051585160882_1.pdf?1680802561000.pdf>
