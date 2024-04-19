@@ -20,6 +20,6 @@
 
 # AI聊天工具
 支持多种模型和本地部署\
-<https://chat-preview.lobehub.com/chat>
+<https://chat-preview.lobehub.com/chat>\
 代码库\
 <https://github.com/lobehub/lobe-chat/tree/main>
